@@ -12,3 +12,8 @@
   - [x] [海洋表层气温数据](https://medium.com/@xinyu.chen/visualize-global-sea-surface-temperature-data-in-python-21a6324df563)
   - [x] [纽约出租车数据](https://github.com/xinychen/vars) [[数据预处理代码](https://transdim.github.io/dataset/NYC-taxi/)]
 
+## 公开数据集
+
+- 城市数据集
+  - [x] [纽约城市公开数据网站](https://www.nyc.gov/site/designcommission/design-references/open-data.page)
+  - [x] [芝加哥城市公开数据网站](https://www.chicago.gov/city/en/narr/foia/CityData.html)
