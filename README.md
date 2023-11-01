@@ -11,6 +11,7 @@
   - [x] [蒙特利尔共享自行车出行数据](https://medium.com/@xinyu.chen/montreal-bikeshare-data-analysis-ii-visualizing-bike-trips-on-road-networks-3d9ab7e5787c) [[站点分布数据](https://medium.com/@xinyu.chen/montreal-bikeshare-data-analysis-i-bikeshare-station-visualization-and-analysis-f5bec23e72f0)]
   - [x] [海洋表层气温数据](https://medium.com/@xinyu.chen/visualize-global-sea-surface-temperature-data-in-python-21a6324df563)
   - [x] [纽约出租车数据](https://github.com/xinychen/vars) [[数据预处理代码](https://transdim.github.io/dataset/NYC-taxi/)]
+  - [x] [纽约出租车数据-toddwschneider](https://github.com/toddwschneider/nyc-taxi-data)
 
 ## 公开数据集
 
