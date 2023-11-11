@@ -12,7 +12,8 @@
   - [x] [海洋表层气温数据](https://medium.com/@xinyu.chen/visualize-global-sea-surface-temperature-data-in-python-21a6324df563)
   - [x] [纽约出租车数据](https://github.com/xinychen/vars) [[数据预处理代码](https://transdim.github.io/dataset/NYC-taxi/)]
   - [x] [纽约出租车数据-toddwschneider](https://github.com/toddwschneider/nyc-taxi-data)
-  - [x] [出行分析-When Are Citi Bikes Faster Than Taxis in New York City?](https://toddwschneider.com/posts/taxi-vs-citi-bike-nyc/)
+  - [x] [When Are Citi Bikes Faster Than Taxis in New York City?](https://toddwschneider.com/posts/taxi-vs-citi-bike-nyc/)
+  - [x] [Analyzing 1.1 Billion NYC Taxi and Uber Trips, with a Vengeance](https://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/)
  
 <br>
 
