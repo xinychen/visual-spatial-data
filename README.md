@@ -31,7 +31,9 @@
    - [TNP网约车出行数据](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2018-2022-/m6dm-c72p) (时间跨度为2018年11月至2022年12月)
    - [Divvy共享自行车出行数据](https://divvybikes.com/system-data) (时间跨度为2013年至今)
    - [E-scooter出行数据](https://catalog.data.gov/dataset/e-scooter-trips)
-- [x] [华盛顿特区Capital Bikeshare共享自行车数据](https://capitalbikeshare.com/system-data)
+- [x] 华盛顿特区公开数据
+   - [出租车出行数据](https://opendata.dc.gov/explore?query=taxi)
+   - [Capital Bikeshare共享自行车数据](https://capitalbikeshare.com/system-data)
 - [x] [波士顿Bluebikes共享自行车数据](https://bluebikes.com/system-data)
 - [x] [佛罗里达州公共自行车](https://www.citibikemiami.com/#stationmap)
 - [x] [纽约交通安全论坛](https://trafficsafetyforum.nypdonline.org/2e5c3f4b-85c1-4635-83c6-22b27fe7c75c/view/89)
