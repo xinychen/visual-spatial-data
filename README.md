@@ -41,3 +41,10 @@
 - [x] [美国政府公开各州交通相关数据](https://catalog.data.gov/dataset/?tags_limit=0&res_format=XML&groups=local&tags=transportation)	
 - [x] [Climate dataset](https://climexp.knmi.nl/start.cgi?id=51e9b9c2ffa5bf2a83a469eba86afa0f)
 - [x] [American Government Open data/Traffic data of America](https://catalog.data.gov/dataset)
+
+## 指数
+
+- [x] [Shared Mobility Data Availability and Usage Trends](https://publications.anl.gov/anlpubs/2022/05/175312.pdf)
+- [x] [Global Micromobility Index (61 Cities and 7 Regions)](https://public.ridereport.com/) [[Austin ride report](https://public.ridereport.com/austin) & [Shared Micromobility Vehicle Trips in Austin](https://data.austintexas.gov/Transportation-and-Mobility/Shared-Micromobility-Vehicle-Trips/7d8e-dm7r)]
+- [x] [APTA Ridership Trends](https://transitapp.com/APTA)
+
