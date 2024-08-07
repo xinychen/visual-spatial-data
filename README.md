@@ -14,7 +14,7 @@
   - [Electric scooter trip data (2019 & 2020)](https://catalog.data.gov/dataset/e-scooter-trips)
 - [x] [Constructing human mobility tensor on NYC rideshare trip data](https://spatiotemporal-data.github.io/NYC-mobility/rideshare/)
   - [TLC trip record data (from 2009 to the latest date)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
-  - High Volume For-Hire Vehicle (HVFHV) includes rideshare companies Juno, Uber, Via, Lyft.
+  - High Volume For-Hire Vehicle (HVFHV) includes rideshare companies Juno, Uber, Via, and Lyft.
 
 <br>
 
