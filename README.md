@@ -1,6 +1,5 @@
 # Visualizing Spatial Data with Python
 
-<br>
 
 ## Tutorials
 
@@ -10,6 +9,7 @@
   - [Taxi trip data (from 2013 to 2023)](https://data.cityofchicago.org/Transportation/Taxi-Trips-2013-2023-/wrvz-psew/about_data)
   - [Taxi trip data (starting January 2024)](https://data.cityofchicago.org/Transportation/Taxi-Trips-2024-/ajtu-isnz/about_data)
   - [TNP rideshare trip data (from November 2018 to December 2022)](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2018-2022-/m6dm-c72p/about_data)
+  - [TNP rideshare trip data (starting January 2023)](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2023-/n26f-ihde/about_data)
   - [Divvy bikeshare trip data (from 2013 to the latest date)](https://divvybikes.com/system-data)
   - [Electric scooter trip data (2019 & 2020)](https://catalog.data.gov/dataset/e-scooter-trips)
 
