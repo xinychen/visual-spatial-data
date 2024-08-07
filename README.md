@@ -12,6 +12,9 @@
   - [TNP rideshare trip data (starting January 2023)](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2023-/n26f-ihde/about_data)
   - [Divvy bikeshare trip data (from 2013 to the latest date)](https://divvybikes.com/system-data)
   - [Electric scooter trip data (2019 & 2020)](https://catalog.data.gov/dataset/e-scooter-trips)
+- [x] [Constructing human mobility tensor on NYC rideshare trip data](https://spatiotemporal-data.github.io/NYC-mobility/rideshare/)
+  - [TLC trip record data (from 2009 to the latest date)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+  - High Volume For-Hire Vehicle (HVFHV) includes rideshare companies Juno, Uber, Via, Lyft.
 
 <br>
 
