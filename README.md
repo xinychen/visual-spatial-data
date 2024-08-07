@@ -1,8 +1,19 @@
-# Python空间数据可视化（中文版）
+# Visualizing Spatial Data with Python
 
 <br>
 
-## 案例内容
+## Tutorials
+
+[Spatiotemporal data modeling project](https://spatiotemporal-data.github.io/) provides a series of tutorials on visualizing spatiotemporal data in Python, including
+
+- [x] [Analyzing millions of taxi trips in the City of Chicago](https://spatiotemporal-data.github.io/Chicago-mobility/taxi-data/)
+  - [Taxi trip data (from 2013 to 2023)](https://data.cityofchicago.org/Transportation/Taxi-Trips-2013-2023-/wrvz-psew/about_data)
+  - [Taxi trip data (starting January 2024)](https://data.cityofchicago.org/Transportation/Taxi-Trips-2024-/ajtu-isnz/about_data)
+  - [TNP rideshare trip data (from November 2018 to December 2022)](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2018-2022-/m6dm-c72p/about_data)
+  - [Divvy bikeshare trip data (from 2013 to the latest date)](https://divvybikes.com/system-data)
+  - [Electric scooter trip data (2019 & 2020)](https://catalog.data.gov/dataset/e-scooter-trips)
+
+<br>
 
 - 可视化案例
   - [x] [全球水蒸气数据](https://medium.com/@xinyu.chen/visualizing-global-water-vapor-patterns-in-python-776bf08b3179) [[数据集](https://github.com/xinychen/climate-tensor)]
