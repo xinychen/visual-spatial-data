@@ -12,9 +12,26 @@
   - [TNP rideshare trip data (starting January 2023)](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2023-/n26f-ihde/about_data)
   - [Divvy bikeshare trip data (from 2013 to the latest date)](https://divvybikes.com/system-data)
   - [Electric scooter trip data (2019 & 2020)](https://catalog.data.gov/dataset/e-scooter-trips)
+
+<p align="center">
+<img align="middle" src="https://spatiotemporal-data.github.io/images/tnp_pickup_dropoff_trips_chicago_2022.png" width="600" />
+</p>
+
+<p align = "center">
+<b>Figure 1.</b> Rideshare pickup and dropoff trips (2022) in the City of Chicago, USA. There are 57,290,954 remaining trips after the data processing.
+</p>
+
 - [x] [Constructing human mobility tensor on NYC rideshare trip data](https://spatiotemporal-data.github.io/NYC-mobility/rideshare/)
   - [TLC trip record data (from 2009 to the latest date)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
   - High Volume For-Hire Vehicle (HVFHV) includes rideshare companies Juno, Uber, Via, and Lyft.
+
+<p align="center">
+<img align="middle" src="https://spatiotemporal-data.github.io/images/pickup_dropoff_trips_nyc_2024_april_may.png" width="700" />
+</p>
+
+<p align = "center">
+<b>Figure 2.</b> Daily rideshare pickup and dropoff trips during the first 8 weeks since April 1, 2024 in New York City, USA. There are 37,404,265 trips in total, while the average daily trips are 667,933.
+</p>
 
 <br>
 
