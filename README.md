@@ -50,6 +50,20 @@ In a hurry? Please check out the contents as follows.
 <b>Figure 3.</b> Daily sea surface temperature data with optimum interpolation on July 1, 2024. The unit of temperature data is centigrade (<img style="display: inline;" src="https://latex.codecogs.com/svg.latex?&space;^\circ\text{C}"/>).
 </p>
 
+<br>
+
+- [x] [Visualizing Germany energy consumption data in Python](https://spatiotemporal-data.github.io/energy/E-usage-data/)
+  - [JERICHO-E-usage dataset](https://www.nature.com/articles/s41597-021-00907-w)
+  - [Processed data on GitHub](https://github.com/xinychen/vars/tree/main/datasets/energy)
+
+<p align="center">
+<img align="middle" src="https://spatiotemporal-data.github.io/images/Germany_energy_dist.png" width="750" />
+</p>
+
+<p align = "center">
+<b>Figure 4.</b> Geographical distribution of seasonal energy consumption of 2019 in Germany.
+</p>
+
 
 <br>
 
