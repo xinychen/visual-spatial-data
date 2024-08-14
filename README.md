@@ -1,6 +1,8 @@
 # Visualizing Spatial Data with Python
 
-> Nowadays, Python has many popular and excellent packages such as `geopandas` for exploring various spatial data and visualizing them for basic analysis. As we know the importance of data visualization for researchers and practioners, it would be right time to pose some interesting cases for beginners to study. In a hurry? Please check out the contents as follows.
+> Nowadays, Python has many popular and excellent packages such as `geopandas` for exploring various spatial data and visualizing them for basic analysis. As we know the importance of data visualization for researchers and practioners, it would be right time to pose some interesting cases for beginners to study.
+
+In a hurry? Please check out the contents as follows.
 
 ## Tutorials
 
