@@ -21,6 +21,8 @@
 <b>Figure 1.</b> Rideshare pickup and dropoff trips (2022) in the City of Chicago, USA. There are 57,290,954 remaining trips after the data processing.
 </p>
 
+<br>
+
 - [x] [Constructing human mobility tensor on NYC rideshare trip data](https://spatiotemporal-data.github.io/NYC-mobility/rideshare/)
   - [TLC trip record data (from 2009 to the latest date)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
   - High Volume For-Hire Vehicle (HVFHV) includes rideshare companies Juno, Uber, Via, and Lyft.
@@ -32,6 +34,19 @@
 <p align = "center">
 <b>Figure 2.</b> Daily rideshare pickup and dropoff trips during the first 8 weeks since April 1, 2024 in New York City, USA. There are 37,404,265 trips in total, while the average daily trips are 667,933.
 </p>
+
+<br>
+
+- [x] [High-resolution sea surface temperature data visualization](https://spatiotemporal-data.github.io/climate/sst/)
+
+<p align="center">
+<img align="middle" src="https://spatiotemporal-data.github.io/images/sst_2407_1.png" width="500" />
+</p>
+
+<p align = "center">
+<b>Figure 1.</b> Daily sea surface temperature data with optimum interpolation on July 1, 2024. The unit of temperature data is centigrade (<img style="display: inline;" src="https://latex.codecogs.com/svg.latex?&space;^\circ\text{C}"/>).
+</p>
+
 
 <br>
 
