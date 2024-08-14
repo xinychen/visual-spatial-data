@@ -44,7 +44,7 @@
 </p>
 
 <p align = "center">
-<b>Figure 1.</b> Daily sea surface temperature data with optimum interpolation on July 1, 2024. The unit of temperature data is centigrade (<img style="display: inline;" src="https://latex.codecogs.com/svg.latex?&space;^\circ\text{C}"/>).
+<b>Figure 3.</b> Daily sea surface temperature data with optimum interpolation on July 1, 2024. The unit of temperature data is centigrade (<img style="display: inline;" src="https://latex.codecogs.com/svg.latex?&space;^\circ\text{C}"/>).
 </p>
 
 
