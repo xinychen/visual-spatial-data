@@ -89,9 +89,15 @@
 - [x] [Climate dataset](https://climexp.knmi.nl/start.cgi?id=51e9b9c2ffa5bf2a83a469eba86afa0f)
 - [x] [American Government Open data/Traffic data of America](https://catalog.data.gov/dataset)
 
-## 指数
+## Metrics (指数)
 
 - [x] [Shared Mobility Data Availability and Usage Trends](https://publications.anl.gov/anlpubs/2022/05/175312.pdf)
 - [x] [Global Micromobility Index (61 Cities and 7 Regions)](https://public.ridereport.com/) [[Austin ride report](https://public.ridereport.com/austin) & [Shared Micromobility Vehicle Trips in Austin](https://data.austintexas.gov/Transportation-and-Mobility/Shared-Micromobility-Vehicle-Trips/7d8e-dm7r)]
 - [x] [APTA Ridership Trends](https://transitapp.com/APTA)
+
+## Publications
+
+Most of these examples are from our papers:
+
+- Xinyu Chen, Chengyuan Zhang, Xiaoxu Chen, Nicolas Saunier, Lijun Sun (2024). [**Discovering dynamic patterns from spatiotemporal data with time-varying low-rank autoregression**](https://doi.org/10.1109/TKDE.2023.3294440). IEEE Transactions on Knowledge and Data Engineering. 36 (2): 504-517. [[PDF](https://xinychen.github.io/papers/time_varying_model.pdf)] [[Blog post](https://spatiotemporal-data.github.io/posts/time_varying_model/)] [[Data & Python code](https://github.com/xinychen/vars)]
 
